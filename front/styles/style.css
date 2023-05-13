@@ -1,0 +1,26 @@
+body {
+    background-color: lightgreen;
+}
+
+header {
+    border-bottom: 3px solid;
+}
+
+header div {
+    padding: 5px 10px;
+}
+
+main {
+    margin-top: 50px;
+}
+
+#navBar nav{
+    margin-bottom: 30px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+#navBar nav:hover {
+    background-color: lightgray!important;
+    cursor: pointer;
+}
